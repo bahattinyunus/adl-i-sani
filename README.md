@@ -1,3 +1,12 @@
+## İlgili Belgeler (Markdown)
+
+- [mahkeme_ifade.md](./mahkeme_ifade.md)
+- [2.md](./2.md)
+- [3.md](./3.md)
+- [4.md](./4.md)
+- [benim-cimer-dilekcem.md](./benim-cimer-dilekcem.md)
+- [uyap.md](./uyap.md)
+
 ## Olay Analizi ve Sonuç
 
 Bu depo içindeki metin dosyaları (`2.txt`, `3.txt`, `4.txt`, `benim cimer dilekçem.txt`) incelenerek Şereflikoçhisar İmam Hatip Lisesi Uygulama ve Tatbikat Camii’ndeki cemaat alanı/kitaplık kullanımı ve 18.05.2024 tarihli hakaret iddiasına ilişkin durum özetlenmiştir.
@@ -24,7 +33,7 @@ Bu depo içindeki metin dosyaları (`2.txt`, `3.txt`, `4.txt`, `benim cimer dile
 
 ### Bulgular (Özet)
 - İdari beyan ile fiili uygulama arasında çelişki: Resmi cevaplarda “cemaat alanı ve kitaplık cemaate açık” denmesine rağmen başvurucu, alanın personelce kullanıldığını ve girişte uyarı gördüğünü bildiriyor.
-- İşaret/levha tartışması: Başvurucu “Görevliler Odası” benzeri bir uyarı gördüğünü, idare ise böyle bir yazı bulunmadığını belirtiyor. Bu, denetimle netleştirilmeye muhtaç bir husus.
+ç- İşaret/levha tartışması: Başvurucu “Görevliler Odası” benzeri bir uyarı gördüğünü, idare ise böyle bir yazı bulunmadığını belirtiyor. Bu, denetimle netleştirilmeye muhtaç bir husus.
 - Hakaret iddiası: 18.05.2024’te cami içinde, görevliden başvurucuya yönelik hakaret sözleri iddia ediliyor; kamu alanında gerçekleştiği ve kurumsal platform (CİMER) üzerinden yapılan yasal başvuruya yönelik aşağılama olduğu ileri sürülüyor.
 
 ### Etki ve Riskler
