@@ -1,5 +1,6 @@
 ## İlgili Belgeler (Markdown)
 
+- [savunma_genis.md](./savunma_genis.md)
 - [mahkeme_ifade.md](./mahkeme_ifade.md)
 - [2.md](./2.md)
 - [3.md](./3.md)
