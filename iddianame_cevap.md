@@ -13,9 +13,9 @@ Suç Tarihi ve Yeri: 18/05/2024 – Şereflikoçhisar/Ankara
 ---
 
 ## I. Kısa Özet ve Olayın Bağlamı
-- Camide kışlık namaz alanı ve cami kitaplığının fiilen personele tahsis edildiği ve cemaat erişiminin kısıtlandığı yönünde iyi niyetli bir şikâyet yapılmıştır. 19.03.2024 tarihli başvuruya idarece “alan cemaate açık” cevabı verilmiştir.
-- 08.04.2024’te girişte “görevliler” mahiyetinde uyarı görüldüğü bildirilmiş; idarece “böyle bir yazı yok” denilmiştir. Bu husus, idari beyan ile fiili uygulama arasında çelişki bulunduğu algısını doğurmuştur.
-- 18.05.2024 saat 21:20’de CİMER başvurusu nedeniyle görevli tarafından rencide edici sözler söylendiği iddia edilmiştir. Daha sonra delil toplanamadığı için “şikâyet yok” iradesi bildirilmiştir. Bu, kötü niyet değil delil yetersizliğinin bir sonucudur.
+- Camide kışlık namaz alanı ve cami kitaplığının fiilen personele tahsis edildiği ve cemaat erişiminin kısıtlandığı yönünde iyi niyetli bir şikâyet yapılmıştır. 19.03.2024 tarihli 1. başvuruya idarece “alan cemaate açık” cevabı verilmiştir.
+- 08.04.2024’te 2. başvuru yapılmış; girişte “Görevliler Odası” ibaresi fotoğrafla bildirilmiştir. Akabinde levhanın kaldırıldığı gözlemlenmiştir. Bu, idari beyan ile fiili uygulama arasında çelişki bulunduğu algısını güçlendirmiştir.
+- 18.05.2024 yatsı ezanı civarında (~21:20), kışlık namazgâh bölümünde (imam giyinme dolabı burada) imamın cübbe giyerken sanığa “Bir şerefsiz CİMER’e şikâyet etmiş, CİMER çıktı mertlik bozuldu” dediği iddia edilmiştir. Daha sonra delil toplanamadığı için “şikâyet yok” iradesi bildirilmiş; bu, kötü niyet değil delil yetersizliğidir.
 
 ## II. Suçun Unsurları ve Kast Yokluğu (TCK 267/1)
 İftira suçunun gerçekleşmesi için: (i) yetkili makama isnat, (ii) isnadın asılsız olduğunu bilme, (iii) bilerek ve isteyerek (özel kast) unsurları gerekir. Somut olayda tartışma, ikinci ve üçüncü unsur üzerindedir.
@@ -29,9 +29,9 @@ Suç Tarihi ve Yeri: 18/05/2024 – Şereflikoçhisar/Ankara
 3) CİMER başvurusunun konusu kamusal yarardır. Dilekçe hakkı (Anayasa m.74) ve ifade özgürlüğü (m.26) çerçevesinde, makul şüpheye dayalı şikâyetler cezalandırılmamalıdır; aksi hâlde başvuru hakkı işlevsizleşir.
 
 ## IV. Deliller ve İnceleme Talepleri
-- 18.05.2024 tarihli olayın gerçekleştiği saat dilimini kapsayan cami içi kamera kayıtlarının celbi (öncesi/sonrası dahil),
-- CİMER başvurularının ve idari cevapların TAM SURETLERİNİN dosyaya getirtilmesi,
-- Gerekirse keşif/inceleme: Kışlık alan ve kitaplığın fiili kullanım pratiği, işaret/levha durumu,
+- 18.05.2024 yatsı ezanı civarı (~21:20) cami içi kamera kayıtlarının celbi (öncesi/sonrası dahil),
+- CİMER başvurularının ve idari cevapların TAM SURETLERİNİN dosyaya getirtilmesi; 2. başvuruya eklenen “Görevliler Odası” levhası fotoğrafının aslı/EXIF bilgileriyle birlikte kabulü,
+- Gerekirse keşif/inceleme: Kışlık namazgâh ve kitaplığın fiili kullanım pratiği; levhanın kaldırılmasına ilişkin idari kayıt/tespit; imam giyinme dolabının konum tespiti,
 - (Varsa) fotoğraf/video kayıtları ve cami yönetimi/dernek kayıtları,
 - (Ulaşılamıyorsa) kayıtların varlığı/yokluğu hususunda ilgili kurumdan yazılı cevap istenmesi.
 

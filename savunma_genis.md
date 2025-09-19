@@ -5,9 +5,9 @@ Bu metin, Şereflikoçhisar Asliye Ceza Mahkemesi’nde görülen iftira (TCK 26
 ---
 
 ## I. Olay ve Kronoloji
-- 19.03.2024: CİMER başvurusu; camide kışlık namaz alanı ve kitaplığın fiilen personelce kullanıldığı, cemaat erişiminin kısıtlandığı şüphesi bildirildi. İdari cevapta alanın cemaate açık olduğu beyan edildi.
-- 08.04.2024: Girişte “görevliler” mahiyetinde uyarı görüldüğü yönünde takip başvurusu; idare “böyle bir yazı yok” dedi.
-- 18.05.2024 (21:20): CİMER başvurusu nedeniyle görevli tarafından rencide edici sözler söylendiği iddiası.
+- 19.03.2024: 1. CİMER başvurusu; camide kışlık namaz alanı ve kitaplığın fiilen personelce kullanıldığı, cemaat erişiminin kısıtlandığı şüphesi bildirildi. İdari cevapta alanın cemaate açık olduğu beyan edildi.
+- 08.04.2024: 2. CİMER başvurusu (takip); girişte “Görevliler Odası” ibaresi bulunduğu fotoğrafla bildirildi. İdare önce “böyle bir yazı yok” dedi; akabinde levhanın kaldırıldığı gözlemlendi.
+- 18.05.2024 (yatsı ezanı esnası, ~21:20): Kışlık namazgâh bölümünde (imamın giyinme dolabının da bulunduğu alan) ders tekrar ederken, imam cübbesini giyerken sanıkla sohbet açıp “Bir şerefsiz CİMER’e şikâyet etmiş, CİMER çıktı mertlik bozuldu” şeklinde ifadeler kullandığı iddia edildi. Sanık bunu CİMER’e şikâyet etti; sonrasında delil toplayamadığı için “şikâyetim yoktur” beyanında bulundu.
 - 19.05.2024 ve 10.07.2024: Başvuru ve düzeltmeler; cami adı/adresi netleştirildi.
 - 21.08.2025: İddianame (Soruşturma: 2024/2590, Esas: 2025/535, İddianame: 2025/493) ile TCK 267/1’ten kamu davası talebi; müşteki lehine idari soruşturma sonucu ve “delil/şahit yok” cevabı gerekçe gösterildi. Hakaret yönünden KYOK notu düşüldü.
 
@@ -22,10 +22,10 @@ Bu metin, Şereflikoçhisar Asliye Ceza Mahkemesi’nde görülen iftira (TCK 26
 - Başvuru hakkı ve ifade özgürlüğü ilkeleri: Kamusal yarar ve şikâyet hakkının dürüst kullanımında, yanlış çıkabilecek değerlendirmeler otomatik olarak iftiraya dönüşmez; kasıt aranır.
 
 ## IV. Deliller ve Talep Edilen İncelemeler
-- Cami içi kamera görüntüleri (18.05.2024 – 21:20 çevresi ve öncesi/sonrası)
-- CİMER yazışmaları ve idari cevapların tam suretleri
-- Gerekirse keşif/inceleme: Kışlık alan ve kitaplığın fiili kullanım pratiği
-- (Varsa) fotoğraf/video materyaller
+- Cami içi kamera görüntüleri (18.05.2024 – yatsı ezanı civarı ~21:20 ve öncesi/sonrası)
+- CİMER başvurularının ve idari cevapların TAM suretleri; özellikle 2. başvuruya eklenen “Görevliler Odası” yazısını gösteren fotoğrafın aslı/EXIF bilgileriyle birlikte dosyaya alınması
+- Gerekirse keşif/inceleme: Kışlık namazgâh ve kitaplık alanının fiili kullanım pratiği; imam giyinme dolabının konumunun tespiti; levhanın kaldırıldığına dair idari kayıt/tespit
+- (Varsa) fotoğraf/video materyaller; cami yönetimi/dernek kayıtları
 
 ## V. Olayın Değerlendirilmesi
 - İdari soruşturmanın müşteki lehine sonuçlanması, şikâyetin kötü niyetle olduğu sonucunu doğurmaz; sadece o aşamada yeterli delil bulunmadığını gösterir.
