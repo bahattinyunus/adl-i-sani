@@ -18,6 +18,11 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 - Başvuru hakkı: Anayasa m.74 ve AİHS m.10-11 kapsamındaki meşru şikâyet hakkının kullanılması cezalandırılamaz; aksi hâlde caydırıcı etki (chilling effect) doğar.
  - Ölçülülük ve ifade-şikâyet dengesi: Kamu hizmetinin yürütülmesine ilişkin şikâyet, bireysel husumetten ayrışır; iyi niyetli ve delile dayalı şikâyet cezalandırılamaz.
 
+### II.a Hukuka Uygunluk ve İlkeler (Kısa)
+- Meşru hakkın kullanılması/şikâyet hakkı (Anayasa m.74): Vatandaş, kamu hizmetine ilişkin gözlemlediği aksaklığı bildirmekle yükümlü/teşvik edilir.
+- İyi niyet ve makul temel: Fotoğraf ve gözlemle desteklenen, çözüm odaklı başvurular, ceza tehdidiyle bastırılamaz.
+- Orantılılık: İdari süreçte lehe sonuç doğması, başvurunun cezalandırılmasını gerektirmez; farklı standartlar geçerlidir.
+
 ### III. Somut Olayda Unsurların Oluşmaması
 1) Gerçeklik inancı ve objektif dayanaklar: Başvurum, somut olgulara ve fotoğrafa (delil.jpg) dayanıyordu. Kapıda “Görevliler Odası” ibaresi bulunması ve sonrasında ibarenin kaldırılması, iddia ettiğim fiili durumun makul temelini göstermektedir. Bu nedenle isnadın “bilerek gerçek dışı” olduğu söylenemez.
 2) İdari soruşturmanın sonucu ceza sorumluluğu doğurmaz: Müşteki hakkında “işlem yapılmasına yer olmadığı” yönündeki idari değerlendirme, benim başvurumun gerçeğe aykırı ve bilerek yalan olduğu anlamına gelmez. İdari standart ve takdir farklıdır; iftira suçuna vücut vermez.
