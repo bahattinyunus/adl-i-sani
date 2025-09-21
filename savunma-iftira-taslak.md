@@ -44,6 +44,11 @@ Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kulla
 - Gerek görülecek diğer usuli işlemlerin tarafıma bildirilmesini,
 saygıyla talep ederim.
 
+### VII. İddianameye Cevap (Özet)
+- İddianamedeki temel varsayım, “yetkili makamlara asılsız beyanda bulunma suretiyle idari soruşturma başlatılmasına sebebiyet”tir. Somut olayda başvurularım somut delile (delil.jpg) ve fiili gözleme dayanır; idari değerlendirmenin lehe çıkması gerçeğin benim açımdan bilerek saptırıldığı anlamına gelmez.
+- Delil ve kronoloji, özel kastı dışlar: İlk başvuru kamu yararı amaçlıdır; ikinci başvuru, resmi “açıklık” beyanı ile kapıdaki ibare arasındaki çelişkiyi gidermeye yöneliktir. Bu silsile, TCK 267/1’de aranan bilerek ve isteyerek gerçek dışı isnat unsurunu karşılamaz.
+- Suç isnadı unsuru gerçekleşmemiştir: Başvurularımda müştekiye özgü somut bir suç isnadı değil, kamusal alanın kullanımının düzeltilmesi talebi bulunmaktadır. Bu haliyle isnat edilen suç tipiyle uyumsuzluk vardır.
+
 Tarih: …/…/2025  
 Sanık: Bahattin Yunus ÇETİN  
 İmza
