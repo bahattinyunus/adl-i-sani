@@ -17,7 +17,7 @@
 
 ### Notlar
 - Kış namazgâhı fiilen imam tarafından görevli odası olarak kullanılıyordu; bu sebeple imamın dolabı ilgili alanın içindeydi.
-- 08.04.2024 tarihli ikinci başvuruya eklenen delil.jpg, kapıda “Görevliler Odası” yazısını göstermekte olup başvuruların haklılığını ve çelişkiyi ortaya koymaktadır.
+- 08.04.2024 tarihli ikinci başvuruya eklenen delil.jpg, kapıda “Görevliler Odası” yazısını göstermektedir; ilk iki başvurunun haklılığını destekler.
 - İlk iki başvurunun silsilesi, 18.05.2024 tarihindeki hakaret olayının bağlamını açıklar.
  - İdari süreç sonucu: İlçe Müftülüğü yazısına göre müşteki lehine işlem yapılmasına yer olmadığı değerlendirmesi yapılmış; bu değerlendirme idari takdire ilişkin olup ceza sorumluluğu doğurmaz.
  - Matufiyet notu: Hakaret soruşturmasındaki KYOK’ta, sözlerin belli bir kişiyi hedef alıp almadığı (matufiyet) unsurunun gerçekleşmediği belirtilmiştir.

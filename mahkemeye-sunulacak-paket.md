@@ -24,7 +24,7 @@ Kaynak: `olay-kronoloji.md`
 - Özel kast yok: Delile dayalı, çözüm odaklı ve iyi niyetli başvurular; ibarenin kaldırılması başvuruların makul temelini teyit eder.  
 - İdari-sonuç ceza doğurmaz: Müftülük yazısı yalnızca idari takdiri yansıtır; şikayet hakkını hukuka aykırı kılmaz.  
 - Hukuki temel: TCK 267/1 unsurları oluşmaz; CMK 223/2-e gereği beraat.  
-- Usul: Keşif, delil toplama, tanık dinlenmesi talepleri.
+- Usul: Keşif ve delil toplama talepleri.
 
 Kaynak: `savunma-iftira-taslak.md`
 
