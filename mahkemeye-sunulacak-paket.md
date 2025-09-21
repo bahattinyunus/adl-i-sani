@@ -35,28 +35,23 @@ Kaynak: `savunma-iftira-taslak.md`
 - delil.jpg (kapı ibaresi).  
 - Müftülük cevabi yazısı (delil/şahit yok; işlem yok).  
 - KYOK (22.07.2025), İddianame (21.08.2025).  
-- Tanıklar (cemaatten 1-2 kişi; isimler bildirilecek).
+  
 
 Kaynak: `delil-listesi.md`
 
 ---
 
-### 4) Tanık Listesi (Şablon)
-Kaynak: `tanik-listesi-sablon.md`
-
----
-
-### 5) Usulî Talepler
+### 4) Usulî Talepler
 Kaynak: `usuli-talep-sablonlari.md`
 
 ---
 
-### 6) Duruşma Sözlü Beyan (Kısa)
+### 5) Duruşma Sözlü Beyan (Kısa)
 Kaynak: `duruşma-sozlu-beyan.md`
 
 ---
 
-### 7) İddianameye Cevap (Nokta Nokta)
+### 6) İddianameye Cevap (Nokta Nokta)
 Kaynak: `iddianameye-cevap-nokta-nokta.md`
 
 ---

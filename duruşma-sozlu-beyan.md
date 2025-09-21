@@ -6,7 +6,7 @@ Sayın Mahkeme,
 
 Bu kronoloji, şikayetlerimin iyi niyetle ve delile dayalı olduğunu gösterir. Müştekiye özgü somut bir suç isnadı yapmadım; kamusal bir alanın kullanımına ilişkin idari/fiili durumun düzeltilmesini talep ettim. Bu nedenle TCK 267/1’in unsurları oluşmamıştır.
 
-BERAAT talep ederim. Gerekirse tanık dinlenmesini, “delil.jpg”ın dosyaya eklenmesini ve ilgili kurum yazılarının celbini talep ediyorum.
+BERAAT talep ederim. “delil.jpg”ın dosyaya eklenmesini ve ilgili kurum yazılarının celbini talep ediyorum.
 
 Saygılarımla.
 

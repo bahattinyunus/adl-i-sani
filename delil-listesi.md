@@ -15,10 +15,7 @@
    - 22.07.2025 tarihli KYOK kararı (matufiyet vurgusu).
    - 21.08.2025 tarihli iddianame (TCK 267/1 sevki).
 
-5) Tanık Beyanları (sunulacak)
-   - Olay günü camide bulunan cemaatten tanık(lar) — isimler duruşmada veya mehil süresinde sunulacaktır.
-
-6) Kurum Kayıtları (toplatılması talep edilecek)
+5) Kurum Kayıtları (toplatılması talep edilecek)
    - Camideki kapı/koridor kamera kayıtları (varsa) — ilgili tarih aralığı.
    - Cami yönetimi tarafından tutulan yazışma/tutanaklar.
 

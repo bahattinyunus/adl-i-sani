@@ -39,14 +39,13 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 ### IV. Deliller
 - CİMER başvuruları ve sistem kayıtları (08.04.2024, 19.05.2024; ref. #2401734099)
 - “delil.jpg” (kapıda “Görevliler Odası” yazısını gösterir)
-- Camideki yazının kaldırıldığına ilişkin tespitler (fotoğraf/ tanık beyanı sunulabilir)
+- Camideki yazının kaldırıldığına ilişkin tespitler (fotoğraf)
 - İddianame, KYOK kararı ve İlçe Müftülüğü yazısı
  - İdari cevaplar: 19.03.2024 cevabı (alanın açık olduğu), 08.04.2024 cevabı (“yazı yoktur”)
 
 ### IV.a İspat Planı (Kısa)
 - Belge: CİMER başvuru çıktıları ve resmi cevaplar (tarih/saat, referans numaralarıyla)
 - Görsel: “delil.jpg” (kapıdaki ibare)
-- Tanık: Olay günü camide bulunan cemaatten 1-2 kişi (isimler duruşmada sunulacak)
 - Kurum yazıları: İlçe Müftülüğü yazısı, KYOK, iddianame
 
 ### V. Sonuç ve İstem
@@ -55,7 +54,6 @@ Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kulla
 ### VI. Usulî Talepler
 - Duruşmalardan haberdar edilmem için UYAP/tebligat adresime bildirim yapılmasını,
 - Gerekirse delil olarak “delil.jpg”ın aslı/ıslak imzalı sunumu için süre verilmesini,
-- Tanık dinlenmesi gerekirse isim bildirmek üzere mehil tanınmasını,
 - Gerek görülecek diğer usuli işlemlerin tarafıma bildirilmesini,
 saygıyla talep ederim.
 

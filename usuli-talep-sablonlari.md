@@ -12,9 +12,9 @@ Gereğini arz ederim.
 Sayın Mahkeme,
 Olayın geçtiği camide keşif icrası ile yer görme ve ibare/alan düzeninin tespiti için keşif yapılmasını talep ederim. Gereğini arz ederim.
 
-### 3) Mehil Talebi (Tanık/Belge)
+### 3) Mehil Talebi (Belge)
 Sayın Mahkeme,
-Tanık isimlerinin bildirilmesi ve delil belgelerinin asıllarının temini için uygun bir mehil verilmesini talep ederim. Gereğini arz ederim.
+Delil belgelerinin asıllarının temini için uygun bir mehil verilmesini talep ederim. Gereğini arz ederim.
 
 ### 4) Tebligat Adresi Bildirimi
 Sayın Mahkeme,

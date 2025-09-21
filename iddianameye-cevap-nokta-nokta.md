@@ -10,7 +10,7 @@
    - Cevap: Suç isnadı yokluğu (şikayet idari/fiili düzenlemeye ilişkindir) ve özel kastın yokluğu (iyi niyet, delil dayanağı) nedeniyle tipiklik oluşmaz; CMK 223/2-e gereği beraat gerekir.
 
 4) Delillerin değerlendirilmesi
-   - Cevap: CİMER kayıtları, delil.jpg, yazının kaldırılması olgusu ve tanık anlatımları, şikayetlerin makul temelini ve iyi niyetini destekler.
+   - Cevap: CİMER kayıtları, delil.jpg ve yazının kaldırılması olgusu, şikayetlerin makul temelini ve iyi niyetini destekler.
 
-Not: Gerekirse tanık listesi ve ek deliller duruşmada sunulacaktır.
+Not: Gerekirse ek deliller duruşmada sunulacaktır.
 
