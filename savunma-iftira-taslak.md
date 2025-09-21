@@ -37,6 +37,13 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 ### V. Sonuç ve İstem
 Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan hem özel kastın hem de “işlemediği suçu isnat” unsurunun oluşmadığı açık olup; üzerime atılı iftira suçundan BERAATİME, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
 
+### VI. Usulî Talepler
+- Duruşmalardan haberdar edilmem için UYAP/tebligat adresime bildirim yapılmasını,
+- Gerekirse delil olarak “delil.jpg”ın aslı/ıslak imzalı sunumu için süre verilmesini,
+- Tanık dinlenmesi gerekirse isim bildirmek üzere mehil tanınmasını,
+- Gerek görülecek diğer usuli işlemlerin tarafıma bildirilmesini,
+saygıyla talep ederim.
+
 Tarih: …/…/2025  
 Sanık: Bahattin Yunus ÇETİN  
 İmza
