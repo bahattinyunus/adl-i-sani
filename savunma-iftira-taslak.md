@@ -25,15 +25,17 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 4) Hakaret sürecinin bağlamı: 18.05.2024’teki sözler üzerine yapılan şikâyet de olayların doğal sonucudur. Hakaret dosyasındaki KYOK, yalnızca delil yetersizliği/matufiyet bakımındandır; bu durum, başvurularımın samimiyet ve doğruluk inancını ortadan kaldırmaz.
 5) Kronoloji iyi niyeti gösterir: 19.03.2024 tarihli ilk başvuru kamu yararı gözetilerek yapılmış, 08.04.2024 tarihli ikinci başvuru ise resmi cevaptaki “açıklık” beyanı ile sahadaki “Görevliler Odası” ibaresi arasındaki çelişkinin giderilmesine yöneliktir. Bu silsile, özel kastın bulunmadığını ve gerçeğe aykırı isnat niyetinin olmadığını ortaya koyar.
  6) Suç isnadı yokluğu: Başvurularımda müştekiye özgü somut bir suç isnadı değil; kamusal bir alanın kullanımına dair idari/fiili durumun düzeltilmesi talep edilmiştir. Bu nedenle TCK 267/1 kapsamında “işlemediği bir suçu isnat” unsuru gerçekleşmemiştir.
+ 7) Lehe delil: Kapıdaki yazının kaldırılmış olması, başvurularımın abartılı veya gerçek dışı değil, somut bir çelişkiyi işaret ettiğini göstermektedir; iyi niyetli başvuruyu teyit eder.
 
 ### IV. Deliller
 - CİMER başvuruları ve sistem kayıtları (08.04.2024, 19.05.2024; ref. #2401734099)
 - “delil.jpg” (kapıda “Görevliler Odası” yazısını gösterir)
 - Camideki yazının kaldırıldığına ilişkin tespitler (fotoğraf/ tanık beyanı sunulabilir)
 - İddianame, KYOK kararı ve İlçe Müftülüğü yazısı
+ - İdari cevaplar: 19.03.2024 cevabı (alanın açık olduğu), 08.04.2024 cevabı (“yazı yoktur”)
 
 ### V. Sonuç ve İstem
-Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan bilerek ve isteyerek gerçek dışı isnat (özel kast) unsurunun oluşmadığı açık olup; üzerime atılı iftira suçundan beraatıma, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
+Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan hem özel kastın hem de “işlemediği suçu isnat” unsurunun oluşmadığı açık olup; üzerime atılı iftira suçundan BERAATİME, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
 
 Tarih: …/…/2025  
 Sanık: Bahattin Yunus ÇETİN  
