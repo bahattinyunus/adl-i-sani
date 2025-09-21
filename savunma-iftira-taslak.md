@@ -32,12 +32,20 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
  6) Suç isnadı yokluğu: Başvurularımda müştekiye özgü somut bir suç isnadı değil; kamusal bir alanın kullanımına dair idari/fiili durumun düzeltilmesi talep edilmiştir. Bu nedenle TCK 267/1 kapsamında “işlemediği bir suçu isnat” unsuru gerçekleşmemiştir.
  7) Lehe delil: Kapıdaki yazının kaldırılmış olması, başvurularımın abartılı veya gerçek dışı değil, somut bir çelişkiyi işaret ettiğini göstermektedir; iyi niyetli başvuruyu teyit eder.
 
+8) Matufiyet açıklaması (hakaret dosyası bağı): KYOK kararında matufiyetin gerçekleşmediği belirtilmiştir. Bu husus, hakaret açısından değerlendirme olmakla birlikte olay bağlamında kişisel husumet isnadını zayıflatır; şikâyetlerimin kamu yararı saikli olduğuna işaret eder.
+
 ### IV. Deliller
 - CİMER başvuruları ve sistem kayıtları (08.04.2024, 19.05.2024; ref. #2401734099)
 - “delil.jpg” (kapıda “Görevliler Odası” yazısını gösterir)
 - Camideki yazının kaldırıldığına ilişkin tespitler (fotoğraf/ tanık beyanı sunulabilir)
 - İddianame, KYOK kararı ve İlçe Müftülüğü yazısı
  - İdari cevaplar: 19.03.2024 cevabı (alanın açık olduğu), 08.04.2024 cevabı (“yazı yoktur”)
+
+### IV.a İspat Planı (Kısa)
+- Belge: CİMER başvuru çıktıları ve resmi cevaplar (tarih/saat, referans numaralarıyla)
+- Görsel: “delil.jpg” (kapıdaki ibare)
+- Tanık: Olay günü camide bulunan cemaatten 1-2 kişi (isimler duruşmada sunulacak)
+- Kurum yazıları: İlçe Müftülüğü yazısı, KYOK, iddianame
 
 ### V. Sonuç ve İstem
 Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan hem özel kastın hem de “işlemediği suçu isnat” unsurunun oluşmadığı açık olup; üzerime atılı iftira suçundan BERAATİME, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
