@@ -21,4 +21,5 @@
 - İlk iki başvurunun silsilesi, 18.05.2024 tarihindeki hakaret olayının bağlamını açıklar.
  - İdari süreç sonucu: İlçe Müftülüğü yazısına göre müşteki lehine işlem yapılmasına yer olmadığı değerlendirmesi yapılmış; bu değerlendirme idari takdire ilişkin olup ceza sorumluluğu doğurmaz.
  - Matufiyet notu: Hakaret soruşturmasındaki KYOK’ta, sözlerin belli bir kişiyi hedef alıp almadığı (matufiyet) unsurunun gerçekleşmediği belirtilmiştir.
+ - Referanslar: CİMER hakaret başvurusu ref. `#2401734099`; Müftülük yazısında “delil ve şahit olmadığı, işlem yapılmayacağı” vurgusu.
 

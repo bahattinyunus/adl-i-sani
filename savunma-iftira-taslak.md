@@ -23,6 +23,8 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 - İyi niyet ve makul temel: Fotoğraf ve gözlemle desteklenen, çözüm odaklı başvurular, ceza tehdidiyle bastırılamaz.
 - Orantılılık: İdari süreçte lehe sonuç doğması, başvurunun cezalandırılmasını gerektirmez; farklı standartlar geçerlidir.
 
+> Müftülük yazısı özeti: “Soruşturma konusu olay hakkında delil ve şahit yok; işlem yapılmasına gerek olmadığı kanaati.” — Bu ifade, yalnızca idari süreç bakımından takdiri yansıtır; şikâyet hakkını hukuka aykırı kılmaz, iftira suçunun unsurlarını da oluşturmaz.
+
 ### III. Somut Olayda Unsurların Oluşmaması
 1) Gerçeklik inancı ve objektif dayanaklar: Başvurum, somut olgulara ve fotoğrafa (delil.jpg) dayanıyordu. Kapıda “Görevliler Odası” ibaresi bulunması ve sonrasında ibarenin kaldırılması, iddia ettiğim fiili durumun makul temelini göstermektedir. Bu nedenle isnadın “bilerek gerçek dışı” olduğu söylenemez.
 2) İdari soruşturmanın sonucu ceza sorumluluğu doğurmaz: Müşteki hakkında “işlem yapılmasına yer olmadığı” yönündeki idari değerlendirme, benim başvurumun gerçeğe aykırı ve bilerek yalan olduğu anlamına gelmez. İdari standart ve takdir farklıdır; iftira suçuna vücut vermez.
@@ -48,7 +50,7 @@ Konu: Esasa karşı savunmalarım ve beraat talebim
 - Kurum yazıları: İlçe Müftülüğü yazısı, KYOK, iddianame
 
 ### V. Sonuç ve İstem
-Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan hem özel kastın hem de “işlemediği suçu isnat” unsurunun oluşmadığı açık olup; üzerime atılı iftira suçundan BERAATİME, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
+Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kullanılması kapsamında olduğu, TCK 267/1’de aranan hem özel kastın hem de “işlemediği suçu isnat” unsurunun oluşmadığı açık olup; CMK 223/2-e uyarınca üzerime atılı iftira suçundan BERAATİME, yargılama giderlerinin kamu üzerinde bırakılmasına karar verilmesini saygıyla arz ve talep ederim.
 
 ### VI. Usulî Talepler
 - Duruşmalardan haberdar edilmem için UYAP/tebligat adresime bildirim yapılmasını,
@@ -56,6 +58,8 @@ Açıklanan nedenlerle; isnadın somut ve iyi niyetli şikâyet hakkının kulla
 - Tanık dinlenmesi gerekirse isim bildirmek üzere mehil tanınmasını,
 - Gerek görülecek diğer usuli işlemlerin tarafıma bildirilmesini,
 saygıyla talep ederim.
+
+Ek talep (keşif ve delil toplama): Gerekirse olay mahallinde keşif yapılmasını; cami girişindeki eski ibareye ilişkin kamera kaydı, fotoğraf veya tutanakların kurumdan celbini; İlçe Müftülüğü cevabi yazısının aslı veya onaylı suretinin dosyaya kazandırılmasını talep ederim.
 
 ### VII. İddianameye Cevap (Özet)
 - İddianamedeki temel varsayım, “yetkili makamlara asılsız beyanda bulunma suretiyle idari soruşturma başlatılmasına sebebiyet”tir. Somut olayda başvurularım somut delile (delil.jpg) ve fiili gözleme dayanır; idari değerlendirmenin lehe çıkması gerçeğin benim açımdan bilerek saptırıldığı anlamına gelmez.
