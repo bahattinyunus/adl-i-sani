@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+requests
+torch
+transformers
+elasticsearch
+weaviate-client
+streamlit
+python-dotenv
